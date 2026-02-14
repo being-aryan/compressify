@@ -1,4 +1,4 @@
-# Compressify 🗜️✨
+# Compressify 
 **Fast, private, and entirely in your browser.**  
 No uploads, no servers — just smaller images in seconds.
 
@@ -50,3 +50,12 @@ Supported output formats: **JPEG / PNG / WEBP**
 ```bash
 git clone https://github.com/being-aryan/compressify.git
 cd compressify
+```
+### 2) Install Dependencies
+```bash
+npm install
+```
+### 3) Run Development Server
+```bash
+npm run dev
+```
